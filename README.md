@@ -1,0 +1,2 @@
+# Predicting-Catalog-Demand
+This project aims to enable the management of a company to determine if it should send a catalog list to a number of new customers and if it would be a good business decision to do so. A historical dataset (p1-customers.xlsx) was used to build a linear regression model, which was then applied to the new dataset (p1-mailinglist.xlsx) and used to predict the potential profit of sending out the catalog for the 250 new customers
